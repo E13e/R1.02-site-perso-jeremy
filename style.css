@@ -88,6 +88,25 @@ footer {
     margin-top: 35px;
 }
 
+#boutonhdp {
+    position: fixed;
+    z-index: 1000;
+    bottom: 143px;
+    right: 13px;
+    background-color: whitesmoke;
+    color: #44a963;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 7px;
+    cursor: pointer;
+    box-shadow: 0px 5px 15px 0px #29693b;
+}
+
 .video {
     aspect-ratio: 16 / 9;
     width: 85%;
